@@ -51,7 +51,7 @@
    );
  };
  
- const TestME = () => {
+ const TestMF = () => {
    const isDarkMode = useColorScheme() === 'dark';
  
    const backgroundStyle = {
@@ -108,5 +108,5 @@
    },
  });
  
- export default TestME;
+ export default TestMF
  

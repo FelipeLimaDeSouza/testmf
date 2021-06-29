@@ -1,6 +1,6 @@
 {
   "name": "test-microfrontend-react-native",
-  "version": "0.0.26",
+  "version": "0.0.28",
   "private": false,
   "scripts": {
     "android": "react-native run-android",
