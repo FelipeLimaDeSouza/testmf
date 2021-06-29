@@ -12,6 +12,7 @@ CVS
 npm-debug.log
 ios/
 android/
+node_modules/
 .watchmanconfig
 .prettierrc.js
 babel.config.js
@@ -23,4 +24,3 @@ yarn.lock
 .eslintrc.js
 .buckconfig
 _editorconfig
-node_modules/
