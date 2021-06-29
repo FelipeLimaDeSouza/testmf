@@ -1,0 +1,1 @@
+rm -rf ../ios && rm -rf ../android && rm -rf ../.prettierrc && rm -rf ../.watchmanconfig && rm -rf ../babel.config.js && rm -rf ../metro.config.js

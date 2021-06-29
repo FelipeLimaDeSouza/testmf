@@ -1,13 +1,14 @@
 {
   "name": "test-microfrontend-react-native",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "private": false,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "publish": "./scripts/remove_patch.sh && npm publish"
   },
   "dependencies": {
     "react": "17.0.1",
