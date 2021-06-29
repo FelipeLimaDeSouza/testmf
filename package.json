@@ -1,7 +1,7 @@
 {
-  "name": "testmf",
+  "name": "test-microfrontend-react-native",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -25,5 +25,20 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeLimaDeSouza/testmf.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Felipe Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeLimaDeSouza/testmf/issues"
+  },
+  "homepage": "https://github.com/FelipeLimaDeSouza/testmf#readme",
+  "description": ""
 }
