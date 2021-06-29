@@ -23,6 +23,8 @@ yarn.lock
 .eslintrc.js
 .buckconfig
 _editorconfig
+/index.js
+app.json
 
 # OSX
 #
