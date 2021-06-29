@@ -13,12 +13,13 @@ npm-debug.log
 ios/
 android/
 node_modules/
+!node_modules/
+node_modules/*
 .watchmanconfig
 .prettierrc.js
 babel.config.js
 metro.config.js
 yarn.lock
-.gitignore
 .gitattributes
 .flowconfig
 .eslintrc.js
