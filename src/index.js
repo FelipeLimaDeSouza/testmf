@@ -107,6 +107,6 @@
      fontWeight: '700',
    },
  });
- 
+ module.exports = TestMF;
+ module.exports.default = TestMF;
  export default TestMF
- 
