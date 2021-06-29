@@ -13,8 +13,6 @@ npm-debug.log
 ios/
 android/
 node_modules/
-!node_modules/
-node_modules/*
 .watchmanconfig
 .prettierrc.js
 babel.config.js
