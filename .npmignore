@@ -21,6 +21,6 @@ yarn.lock
 .gitattributes
 .flowconfig
 .eslintrc.js
-.buckconfig.js
+.buckconfig
 _editorconfig
-node_modules
+node_modules/
