@@ -1,8 +1,9 @@
-import { Component } from 'react'
-
 declare module 'test-microfrontend-react-native' {
-    interface Props {
-    }
-    export default class TestMF extends Component<Props> {
-    }
+        interface Props {
+            fileName?: string
+        }
+
+        const TestMF: (props: Props) => JSX.Element
+        
+        export default TestMF
 }
